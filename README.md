@@ -1,2 +1,3 @@
 # hello-world
-First Program
+First program
+Now I change someting to follow the github guides step2&3.
